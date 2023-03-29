@@ -1,13 +1,15 @@
-( * : 為團隊需自行修改部分 )
-# *Gaas-repo-template ( 換成自己遊戲名稱 )
+# 三國志・陽春戰略版 (Simple Three Kingdoms Tactics)
 
 # Intro your game
+[![img](https://img.youtube.com/vi/CE1l5JEgKaI/0.jpg)](https://www.youtube.com/watch?v=CE1l5JEgKaI)
 
+# Practice Stack
+  * Event Storming
+  * Example Mapping
+  * Domain Driven Design
+  * Clean Architecture
 
-# My Practice Stack
-- 描述一下你們使用的軟體方法論 :
-   1. *...
-
-### Tech Stack
-- 描述一下你們使用的技術、框架、語言 :
-   1. *...
+# Tech Stack
+  * Backend: C++11 up
+  * DB: RDBMS
+  * Frontend: TBD
